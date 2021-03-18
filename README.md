@@ -1,4 +1,3 @@
-# run-buddy1
 # Run Buddy, Inc
 
 ## Purpose
